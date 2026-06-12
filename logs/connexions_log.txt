@@ -1,0 +1,13 @@
+2026-04-13 13:58:27 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-04-13 13:58:47 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-04-24 18:50:33 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-04-27 12:11:26 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-05-14 10:32:03 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-05-21 16:50:03 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-06-02 15:55:44 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-06-02 16:11:47 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-06-02 16:46:21 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-06-04 11:01:54 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-06-04 11:26:25 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-06-05 10:30:00 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: ::1
+2026-06-10 10:55:47 | Déconnexion | Utilisateur ID: 1 | Nom: Administrateur | IP: 192.168.200.202
